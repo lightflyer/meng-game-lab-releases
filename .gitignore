@@ -1,0 +1,9 @@
+# This public repository tracks release information only.
+*
+!.gitignore
+!README.md
+!CHANGELOG.md
+!docs/
+!docs/*.md
+!releases/
+!releases/*.md
